@@ -1,0 +1,1 @@
+{"Toyota": {"camery": [{"2020": {"Engine-type": "v6", "tank": 6, "electric": true}}, {"2021": {"Engine-type": "v8", "tank": 10, "electric": false}}], "corrola": [{"2020": {"Engine-type": "v12", "tank": 5, "electric": true}}], "tacoma": [{"engine": "v8", "tank": 8, "electric": false}]}, "kia": {"rio": [{"2019": {"Engine-type": null, "tank": 5, "electric": true}}]}}
